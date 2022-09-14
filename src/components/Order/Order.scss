@@ -1,0 +1,41 @@
+.order {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  background-image: url('../../images/orders-section-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  &__wrapper {
+    padding-top: 121px;
+    padding-bottom: 151px;
+  }
+
+  &__heading {
+    max-width: 555px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &__title {
+    font-size: 36px;
+    line-height: 43px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  &__subtitle {
+    color: #BBBBBB;
+    margin-top: 30px;
+  }
+
+  &__work-scheme {
+    margin-top: 80px;
+  }
+
+  &__form {
+    margin-top: 80px;
+  }
+}

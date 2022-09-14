@@ -1,0 +1,11 @@
+.payments {
+  display: flex;
+
+  &__image:not(:first-child) {
+    margin-left: 15px;
+
+    @media (min-width: 576px) {
+      margin-left: 40px;
+    }
+  }
+}

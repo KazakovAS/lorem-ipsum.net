@@ -1,7 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+
+import './vendor/normalize';
+import './vendor/fonts/fonts.scss';
+
+import './Share/Container.scss';
+import './Share/Color-accent.scss';
+import './Share/Button.scss';
+import './Share/Overflow.scss';
+import './Share/Visually-hidden.scss';
+
+import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

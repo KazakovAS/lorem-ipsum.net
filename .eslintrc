@@ -30,7 +30,8 @@
     "no-underscore-dangle": ["error", { "allow": ["_id"] }],
     "react/react-in-jsx-scope": "off",
     "arrow-body-style": "off",
-    "prefer-arrow-callback": "off"
+    "prefer-arrow-callback": "off",
+    "import/prefer-default-export": "off"
   },
   "env": {
     "browser": true,

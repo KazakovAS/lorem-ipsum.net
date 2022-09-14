@@ -1,0 +1,33 @@
+.button {
+  box-sizing: border-box;
+  background-color: #FFFFFF;
+  border: 1px solid #6F6D7B;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 16px;
+  color: #2A2B30;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  padding: 7px 15px;
+  transition: background-color .6s ease-in-out;
+
+  @media (min-width: 576px) {
+    padding: 13px 30px;
+  }
+
+  &:hover {
+    background-color: darken(#FFFFFF, 15%);
+  }
+
+  &_accent {
+    background-color: #3E9CDC;
+    border-color: #ffffff;
+    color: #ffffff;
+
+    &:hover {
+      background-color: darken(#3E9CDC, 15%);
+    }
+  }
+}
