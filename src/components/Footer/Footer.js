@@ -8,7 +8,7 @@ function Footer() {
     <footer className="footer">
       <div className="container footer__wrapper">
         <p className="footer__column footer__copy">
-          © 2018 «LoremIpsum.net» Все права защищены.
+          © 2018 «LOREMIPSUM.NET» Все права защищены.
         </p>
 
         <Payments className="footer__column" />

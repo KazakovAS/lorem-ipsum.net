@@ -150,6 +150,7 @@
           appearance: none;
           padding-left: initial;
           padding-right: initial;
+          margin-top: 6px;
 
           &::-webkit-slider-thumb {
             appearance: none;
@@ -236,8 +237,8 @@
     font-weight: 700;
     font-size: 15px;
     line-height: 18px;
-    padding: 17px 34px;
-    margin-top: 40px;
+    padding: 14px 34px;
+    margin-top: 43px;
     margin-left: auto;
     margin-right: auto;
 
@@ -248,7 +249,7 @@
 }
 
 .MuiPaper-root {
-  max-height: 320px !important;
+  max-height: 179px !important;
   background-color: rgba(39, 39, 51) !important;
   border: 1px solid #3D4050;
   border-radius: 0 0 3px 3px !important;
@@ -268,6 +269,15 @@
     background: #3D4050;
     border-radius: 3px;
     margin-left: -4px;
+  }
+
+  .MuiMenuItem-root {
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: normal;
+    padding-left: 11px;
   }
 
   .MuiMenuItem-root.Mui-selected {
