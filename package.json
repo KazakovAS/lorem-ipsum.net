@@ -2,6 +2,7 @@
   "name": "lorem-ipsum.net",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kazakovas.github.io/lorem-ipsum.net/",
   "scripts": {
     "dev": "react-scripts start",
     "build": "react-scripts build",

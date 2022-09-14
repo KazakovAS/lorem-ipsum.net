@@ -14,7 +14,13 @@ function Form({ className }) {
   };
 
   return (
-    <form className={`form ${className}`} action="" method="POST">
+    <form
+      className={`form ${className}`}
+      action=""
+      method="POST"
+      name="form"
+      id="form"
+    >
       <div className="form__fields">
         <label className="form__item">
           <Select
@@ -23,9 +29,9 @@ function Form({ className }) {
             onChange={handleChange}
             displayEmpty
             inputProps={{ 'aria-label': 'Выберите тип системы' }}
-            MenuProps={{
-              disableScrollLock: true,
-            }}
+            // MenuProps={{
+            //   disableScrollLock: true,
+            // }}
             defaultValue="none"
           >
             <MenuItem value="" disabled>

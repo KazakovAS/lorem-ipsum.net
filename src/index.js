@@ -9,6 +9,7 @@ import './Share/Color-accent.scss';
 import './Share/Button.scss';
 import './Share/Overflow.scss';
 import './Share/Visually-hidden.scss';
+import './Share/Root.scss';
 
 import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
