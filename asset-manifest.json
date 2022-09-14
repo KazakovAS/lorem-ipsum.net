@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.43162b90.css",
-    "main.js": "/static/js/main.254f2fb9.js",
-    "static/js/787.1256ba9a.chunk.js": "/static/js/787.1256ba9a.chunk.js",
-    "static/media/hero.jpg": "/static/media/hero.e84a81cc141ffcb0b7b8.jpg",
-    "static/media/orders-section-bg.png": "/static/media/orders-section-bg.26fa008d71b87b3cdaae.png",
-    "static/media/payment-systems.svg": "/static/media/payment-systems.dc14ed8ff4a114e64791ff0c0f971451.svg",
-    "static/media/Lato-Regular.woff": "/static/media/Lato-Regular.162076cc439ed43af306.woff",
-    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.219d5e10221cd5a0f204.woff",
-    "static/media/Lato-Black.woff": "/static/media/Lato-Black.ee2e21531e410ff25c29.woff",
-    "static/media/work-scheme.svg": "/static/media/work-scheme.94f7b5ba5a9f61fcb6e0.svg",
-    "static/media/logo.svg": "/static/media/logo.c1b67272f247599e480f4c791d62613c.svg",
-    "static/media/contacts.svg": "/static/media/contacts.973b2ee48a2c68bbe629.svg",
-    "index.html": "/index.html",
-    "static/media/file-upload.svg": "/static/media/file-upload.4c43a0ba0cacabe3be95.svg",
-    "static/media/menu-button.svg": "/static/media/menu-button.16afc06f7ecfce4b324e.svg",
-    "main.43162b90.css.map": "/static/css/main.43162b90.css.map",
-    "main.254f2fb9.js.map": "/static/js/main.254f2fb9.js.map",
-    "787.1256ba9a.chunk.js.map": "/static/js/787.1256ba9a.chunk.js.map"
+    "main.css": "/lorem-ipsum.net/static/css/main.7e9d72d8.css",
+    "main.js": "/lorem-ipsum.net/static/js/main.5ee24c78.js",
+    "static/js/787.1256ba9a.chunk.js": "/lorem-ipsum.net/static/js/787.1256ba9a.chunk.js",
+    "static/media/hero.jpg": "/lorem-ipsum.net/static/media/hero.e84a81cc141ffcb0b7b8.jpg",
+    "static/media/orders-section-bg.png": "/lorem-ipsum.net/static/media/orders-section-bg.26fa008d71b87b3cdaae.png",
+    "static/media/payment-systems.svg": "/lorem-ipsum.net/static/media/payment-systems.dc14ed8ff4a114e64791ff0c0f971451.svg",
+    "static/media/Lato-Regular.woff": "/lorem-ipsum.net/static/media/Lato-Regular.162076cc439ed43af306.woff",
+    "static/media/Lato-Bold.woff": "/lorem-ipsum.net/static/media/Lato-Bold.219d5e10221cd5a0f204.woff",
+    "static/media/Lato-Black.woff": "/lorem-ipsum.net/static/media/Lato-Black.ee2e21531e410ff25c29.woff",
+    "static/media/work-scheme.svg": "/lorem-ipsum.net/static/media/work-scheme.94f7b5ba5a9f61fcb6e0.svg",
+    "static/media/logo.svg": "/lorem-ipsum.net/static/media/logo.c1b67272f247599e480f4c791d62613c.svg",
+    "static/media/contacts.svg": "/lorem-ipsum.net/static/media/contacts.973b2ee48a2c68bbe629.svg",
+    "index.html": "/lorem-ipsum.net/index.html",
+    "static/media/file-upload.svg": "/lorem-ipsum.net/static/media/file-upload.4c43a0ba0cacabe3be95.svg",
+    "static/media/menu-button.svg": "/lorem-ipsum.net/static/media/menu-button.16afc06f7ecfce4b324e.svg",
+    "main.7e9d72d8.css.map": "/lorem-ipsum.net/static/css/main.7e9d72d8.css.map",
+    "main.5ee24c78.js.map": "/lorem-ipsum.net/static/js/main.5ee24c78.js.map",
+    "787.1256ba9a.chunk.js.map": "/lorem-ipsum.net/static/js/787.1256ba9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43162b90.css",
-    "static/js/main.254f2fb9.js"
+    "static/css/main.7e9d72d8.css",
+    "static/js/main.5ee24c78.js"
   ]
 }
